@@ -44,7 +44,7 @@ This should give an overview about the ata given with this workshop and should a
 Here are two different techniques shown to establish a training and a validation set. Both ways have pros and cons, explore them.
 
 ### 3. Design a machine learning model and train it
-Now it is the time to design the first architecture for a machine learning model. In the first approach it will be a classification model depending on the training set you choose. 
+Now it is the time to design the first architecture for a machine learning model. In the first approach it will be a classification model depending on the training set you choose.
 
 The second architecture will add a second output to the mix.
 
